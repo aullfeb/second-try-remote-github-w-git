@@ -6,6 +6,11 @@
 <body>
     <h2>HELLO REMOTE GIT</h2>
     <p>bagian 2, ini adalah file untuk mencoba git dirematoe ke gituhub</p>
-    <h2>SPONTAN UHUY!!</h2>
+    <h2>BAGIAN KEDUA</h2>
+    <ol>
+        <li>pepaya</li>
+        <li>anggur</li>
+        <li>serikaya</li>
+    </ol>
 </body>
 </html>
